@@ -1,1 +1,1 @@
-harus ada satu baris
+harus ada satu baris -1234
